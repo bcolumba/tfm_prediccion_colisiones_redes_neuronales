@@ -1,6 +1,6 @@
 # tfm_prediccion_colisiones_redes_neuronales
 
-Predicción de incidentes de tráfico con aprendizaje profundo
+## Predicción de incidentes de tráfico con aprendizaje profundo
 
 Este trabajo pretende modelara una herramienta predictiva sobre los accidentes automovilisticos en los traficos urbanos que ayude a tomar decisiones en el momento de elegir una ruta a tomar para un destino especifico
 
